@@ -1,2 +1,11 @@
 # sysinfo_server
-Go test for Canonical interview
+
+RestAPI to retrieve system bootup duration (kernel+userspace)
+
+/version
+
+GET – Get service version
+
+/duration
+
+GET – Get server startup duration.
