@@ -1,6 +1,8 @@
 # sysinfo_server
 
-RestAPI to retrieve system bootup duration (kernel+userspace)
+RestAPI to retrieve system bootup duration (kernel+userspace).
+Options: --json    - answers with json format
+         --debug   - add server logs
 
 /version
 
